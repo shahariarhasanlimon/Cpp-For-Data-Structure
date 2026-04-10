@@ -1,1 +1,2 @@
-Enter a number (1-7) to get the corresponding day of the week: Invalid input. Please enter a number between 1 and 7.
+Before swapping: a = 5, b = 10
+After swapping: a = 10, b = 5
