@@ -1,3 +1,1 @@
-Default output: 3.14159
-Output with 2 decimal places: 3.14
-Output with 4 decimal places: 3.1416
+Enter a number (1-7) to get the corresponding day of the week: Invalid input. Please enter a number between 1 and 7.
